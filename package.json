@@ -4,7 +4,7 @@
   "description": "eBay Marketplace Account Deletion Notification Endpoint",
   "type": "module",
   "engines": {
-    "node": "22.x"
+    "node": "24.x"
   },
   "keywords": ["ebay", "marketplace", "account-deletion", "webhook", "serverless"],
   "author": "Your Name",
